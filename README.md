@@ -11,7 +11,8 @@ Last Updated: 11/10/2013 07:00am
 * Get the hardware here: [http://RFduino.com](http://RFduino.com)
 
 * Download Arduino 1.5 here: [http://arduino.cc](http://arduino.cc/en/Main/Software)  
-  (on osx remember to open arduino first to make gatekeeper perform its magic)  
+  (on osx remember to open arduino first to make gatekeeper perform its magic)
+  (Arduino 1.5.X is currently in beta, however it is required for RFduino)
 
 * Copy the RFduino directory from this repository in Arduino  
   (on Windows, C:\arduino-1.5.4\hardware\arduino)  
